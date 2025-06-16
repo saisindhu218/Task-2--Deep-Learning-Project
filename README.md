@@ -80,3 +80,18 @@ This task really helped me level up my understanding of deep learning. Some of t
 * Troubleshooting errors like missing imports, incorrect shapes, or missing libraries gave me more confidence in debugging PyTorch code.
 * Lastly, I understood the value of saving models and making projects reproducible.
 
+
+
+### OUTPUT:
+
+### This is for model evaluation:
+![Image](https://github.com/user-attachments/assets/684a5b07-a1b5-434a-aac4-e02538d2eed1)
+
+![Image](https://github.com/user-attachments/assets/70fdec0f-30e9-4e2c-b6d2-8b824113864a)
+
+### Visualizing the Results:
+![Image](https://github.com/user-attachments/assets/fd105408-b414-4c46-a402-e2f347f47aa8)
+
+![Image](https://github.com/user-attachments/assets/480a147a-08ed-41a0-921a-b87673b92216)
+
+And saved the model as my_fashion_mnist_cnn.pth format.
