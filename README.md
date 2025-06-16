@@ -13,7 +13,7 @@
 *Mentor*    : Neela Santosh
 
 
-            Hello! This is my write-up for Task 2 of the CODTECH Data Science Internship. The goal of this task was to build a deep learning model that could classify images — and trust me, it was such an exciting and hands-on experience. As an MCA student, diving into real-world deep learning was both a challenge and a big learning opportunity. The project focused on image classification using the Fashion MNIST dataset. I built the model using Python and PyTorch, and I worked entirely in Visual Studio Code (VS Code), which is the IDE I’m most comfortable with. To make sure everything was clean and organized, I created a dedicated Python virtual environment called datascience_env, where I installed all the necessary libraries.
+           ## Hello! This is my write-up for Task 2 of the CODTECH Data Science Internship. The goal of this task was to build a deep learning model that could classify images — and trust me, it was such an exciting and hands-on experience. As an MCA student, diving into real-world deep learning was both a challenge and a big learning opportunity. The project focused on image classification using the Fashion MNIST dataset. I built the model using Python and PyTorch, and I worked entirely in Visual Studio Code (VS Code), which is the IDE I’m most comfortable with. To make sure everything was clean and organized, I created a dedicated Python virtual environment called datascience_env, where I installed all the necessary libraries.
 
 ### Tools and Technologies I Used
 Here’s everything I used to make this project happen:
