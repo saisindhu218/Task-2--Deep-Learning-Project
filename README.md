@@ -64,11 +64,6 @@ I plotted:
 #### Step 6: Saving the Model
 After everything, I saved the trained model to a file named my\_fashion\_mnist\_cnn.pth. This way, I can reuse the model in the future without needing to retrain it.
 
-## Final Thoughts
-As a beginner in deep learning, this project was my first hands-on experience with building and training neural networks, and it really helped me understand the foundational concepts in a practical way.
-Working on this deep learning project was a real confidence booster. From loading the data to building and evaluating a model, every step taught me something new. It wasn’t just a coding task it felt like building something intelligent with real-life applications.
-I’m really grateful to have had the chance to do this as part of my internship. This task made me even more excited about learning machine learning and artificial intelligence in greater depth. I hope to build even more advanced models in the future using what I’ve learned here.
-
 ## Key Learnings from This Task
 This task really helped me level up my understanding of deep learning. Some of the biggest things I learned include:
 * How to go from raw image data to a trained classification model.
@@ -81,6 +76,13 @@ This task really helped me level up my understanding of deep learning. Some of t
 * Troubleshooting errors like missing imports, incorrect shapes, or missing libraries gave me more confidence in debugging PyTorch code.
 * Lastly, I understood the value of saving models and making projects reproducible.
 
+## Final Thoughts
+
+As a beginner stepping into the world of deep learning, this project was a turning point for me. It was my first time building and training a complete neural network from scratch — and that too on image data, which felt both exciting and intimidating at the start. But as I progressed through each phase of this project, from loading and preprocessing the Fashion MNIST dataset to building a CNN model and evaluating its performance, I realized that deep learning is not just about complex math or algorithms — it's about teaching machines to recognize patterns in a way that mimics human thinking.
+This task boosted my confidence and helped me appreciate the power of PyTorch and how modular and flexible it is for building deep learning models. I also understood the importance of concepts like overfitting, model evaluation metrics beyond accuracy, and why visualizing learning curves can make a big difference in understanding model behavior. It taught me how every line of code — whether defining layers, applying activations, or computing loss — plays a crucial role in making the model smarter.
+
+More than anything, it gave me a sense of achievement. It showed me that even as a student who’s still learning, I can build intelligent systems that can make decisions, learn from data, and improve over time. I now feel more equipped to explore advanced topics like transfer learning, custom datasets, and deploying models in real-world scenarios.
+This project wasn't just about submitting a task — it was about discovering what I’m capable of. It’s motivated me to dive deeper into machine learning and AI, and I’m excited to continue this journey, one model at a time.
 
 
 ## OUTPUT:
