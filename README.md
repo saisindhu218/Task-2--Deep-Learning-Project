@@ -1,16 +1,4 @@
-# Task-2--Deep-Learning-Project
-
-*Company*   : CODTECH IT SOLUTIONS
-
-*Name*      : Rachabattuni Sai Sindhu
-
-*Intern ID* : CT06DG1263
-
-*Domain*    : Data Science
-
-*Duration*  : 6 Weeks
-
-*Mentor*    : Neela Santosh
+# Deep-Learning-Project
 
 
 ###  
@@ -98,3 +86,6 @@ This project wasn't just about submitting a task it was about discovering what I
 ![Image](https://github.com/user-attachments/assets/480a147a-08ed-41a0-921a-b87673b92216)
 
 And saved the model as my_fashion_mnist_cnn.pth format.
+
+
+### Rachabattuni Sai Sindhu
